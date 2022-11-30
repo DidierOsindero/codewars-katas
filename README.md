@@ -28,7 +28,8 @@ Link to my CodeWars: <a href="https://www.codewars.com/users/Dids109" target="_b
  <summary>5 kyu</summary>
 
 ### [5 kyu katas](src/5kyu)  
-[Simple Assembler Interpreter](src/5kyu/simple-assembler-interpreter)
+[Simple Assembler Interpreter](src/5kyu/simple-assembler-interpreter) . 
+[RGB to Hex Converter](src/5kyu/rgb-to-hex-conversion)
 </details>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
